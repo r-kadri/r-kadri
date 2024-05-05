@@ -1,18 +1,7 @@
 # 💫 About Me:
-🚀 Aspirant polyglotte, passionné par le dev et très motivé. <br>✋ Je suis Ryan Kadri, Développeur Web principalement !
-
+✋ I am Ryan Kadri - primarily a Web Developer, but open to many doors!<br>
+🎮 Passionate about games and development since childhood, I'm now highly motivated to turn it into my profession.<br>
+🚀  I'm also a motorcyclist who enjoys traveling, hiking in nature, and learning foreign languages to connect with people around the globe.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/r-kadri)
-
-# 💻 Tech Stack:
-- PHP - Symfony, Laravel, Wordpress, Prestashop
-- Java - Spring
-- Javascript, Typescript - React
-- MySQL, Postgres, Trello, Git
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=r-kadri&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r-kadri&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
